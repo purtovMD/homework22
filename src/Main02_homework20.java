@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main02 {
+public class Main02_homework20 {
 
   public static int[] randomArray(int length, int min, int max) {
     Random random = new Random();
